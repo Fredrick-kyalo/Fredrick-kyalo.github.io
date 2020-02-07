@@ -9,8 +9,7 @@ h2{
 .kuria{
     background-color: brown;
 }
-body{
+body{background-image: -webkit-image-set(fantasy);
     background-color: white;
-}
-@media screen and (min-width: 320px) 
+    background-attachment: scroll;
 }
